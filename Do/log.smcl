@@ -1,0 +1,10 @@
+{smcl}
+{com}{sf}{ul off}{txt}{.-}
+      name:  {res}<unnamed>
+       {txt}log:  {res}D:\Documents\School\Baylor\Causal Inference\Replication1\Do\log.smcl
+  {txt}log type:  {res}smcl
+ {txt}opened on:  {res} 5 Mar 2021, 14:01:39
+
+{com}. use "D:\Documents\School\Baylor\Causal Inference\Replication1\Data\hansen_dwi.dta"
+
+. 
