@@ -1,0 +1,14 @@
+	(1)	(2)	(3)
+VARIABLES	Linear	Linear with Cutoff	Quadratic with Cutoff
+			
+bac1	-0.442***		
+	(0.112)		
+RD_Estimate		-0.0197***	-0.0194***
+		(0.00416)	(0.00568)
+Constant	0.143***		
+	(0.00983)		
+			
+Observations	46,957	214,558	214,558
+R-squared	0.000		
+Robust standard errors in parentheses			
+*** p<0.01, ** p<0.05, * p<0.1			

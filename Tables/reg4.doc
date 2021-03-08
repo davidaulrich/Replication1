@@ -1,0 +1,22 @@
+{\rtf1\fs24
+\trowd\trgaph75\trleft-75\intbl\trqc\clbrdrt\brdrs\cellx1872\clbrdrt\brdrs\cellx3312\clbrdrt\brdrs\cellx6048\clbrdrt\brdrs\cellx9216
+\ql \cell\qc (1)\cell\qc (2)\cell\qc (3)\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx1872\cellx3312\cellx6048\cellx9216
+\trowd\trgaph75\trleft-75\trqc\clbrdrb\brdrs\cellx1872\clbrdrb\brdrs\cellx3312\clbrdrb\brdrs\cellx6048\clbrdrb\brdrs\cellx9216
+\ql VARIABLES\cell\qc Linear\cell\qc Linear with Cutoff\cell\qc Quadratic with Cutoff\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx1872\cellx3312\cellx6048\cellx9216
+\ql \cell\qc \cell\qc \cell\qc \cell\row
+\ql bac1\cell\qc -0.442***\cell\qc \cell\qc \cell\row
+\ql \cell\qc (0.112)\cell\qc \cell\qc \cell\row
+\ql RD_Estimate\cell\qc \cell\qc -0.0209***\cell\qc -0.0180***\cell\row
+\ql \cell\qc \cell\qc (0.00429)\cell\qc (0.00595)\cell\row
+\ql Constant\cell\qc 0.143***\cell\qc \cell\qc \cell\row
+\ql \cell\qc (0.00983)\cell\qc \cell\qc \cell\row
+\ql \cell\qc \cell\qc \cell\qc \cell\row
+\ql Observations\cell\qc 46,957\cell\qc 124,642\cell\qc 124,642\cell\row
+\trowd\trgaph75\trleft-75\trqc\trbrdrb\brdrs\clbrdrb\brdrs\cellx1872\clbrdrb\brdrs\cellx3312\clbrdrb\brdrs\cellx6048\clbrdrb\brdrs\cellx9216
+\ql R-squared\cell\qc 0.000\cell\qc \cell\qc \cell\row
+\pard\qc
+Robust standard errors in parentheses\par
+*** p<0.01, ** p<0.05, * p<0.1\par
+}
