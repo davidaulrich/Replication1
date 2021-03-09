@@ -1,0 +1,9 @@
+	(1)	(2)	(3)	(4)
+VARIABLES	Accident	White	Male	Age
+				
+RD_Estimate	-0.000208	0.00729	-0.00827	-0.0994
+	(0.00613)	(0.00746)	(0.00880)	(0.226)
+				
+Observations	214,558	214,558	214,558	214,558
+Standard errors in parentheses				
+*** p<0.01, ** p<0.05, * p<0.1				
